@@ -5,10 +5,8 @@
 
 ---
 
-I'm a rising junior at the University of Maryland, College Park, majoring in Information Systems and Economics. I am passionate about building tools that **solve real-world problems**, **leverage AI/ML**, and **scale to serve hundreds of users**. 
+I'm a rising junior at the University of Maryland, College Park, majoring in Information Systems and Economics.
 
-- Currently a Software Developer Intern @ Apollonian.Ai
-- Founding Software Engineer @ InterviewLab.dev
 ---
 
 ## 📈 Skills
