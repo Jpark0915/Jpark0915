@@ -5,7 +5,7 @@
 
 ---
 
-I'm a rising junior at the University of Maryland, College Park, majoring in Information Systems and Economics.
+I'm a junior at the University of Maryland, College Park, majoring in Information Systems and Economics.
 
 ---
 
