@@ -53,5 +53,5 @@ I'm a junior at the University of Maryland, College Park, majoring in Informatio
 ## 📫 Reach Me
 
 📧 psj10502@gmail.com 
-💼 LinkedIn: [www.linkedin.com/in/jonathanspark]([https://www.linkedin.com/in/chrisnam28/](https://www.linkedin.com/in/jonathanspark/))   
+💼 LinkedIn: [www.linkedin.com/in/jonathanspark](https://www.linkedin.com/in/jonathanspark/)   
 Feel free to check out my projects and reach out if you’d like to collab!
