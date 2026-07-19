@@ -65,10 +65,24 @@ Analyzed 800+ records to explore relationships between steroid compounds, report
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center">Connect With Me</h2>
 
-📧 **Email:** [psj10502@gmail.com](mailto:psj10502@gmail.com)
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/jonathanspark">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-💼 **LinkedIn:** https://www.linkedin.com/in/jonathanspark
+  <a href="mailto:psj10502@gmail.com?subject=Hello%20Jonathan%20-%20GitHub">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-Thanks for visiting my profile! Feel free to explore my repositories or connect with me.
+  <a target="_blank" href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+<hr>
+
+<h2 align="center">Check Out My Projects ⬇️</h2>
