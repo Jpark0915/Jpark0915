@@ -38,11 +38,11 @@ Analyzed 10,000 customer records using SQL and built an interactive Tableau dash
 
 ---
 
-### 💪 Renpho Health & Weight Trends Analysis *(In Progress)*
+### 💪 Behavioral Health Analytics: Smart Scale Progress Tracking
 
-Analyzing smart scale health metrics to uncover trends in weight, body composition, and fitness progress using Python, Excel, SQL, and Tableau.
+Analyzed 1,300+ smart-scale measurements** across 16 biometric fields using SQL, Python, and Tableau to clean health data, calculate trend-based metrics, and build a product-focused dashboard for progress tracking.
 
-**Tools:** Python • Pandas • SQL • Excel • Tableau
+**Tools:** PostgreSQL • Python • Pandas • Tableau • GitHub  
 
 ---
 
