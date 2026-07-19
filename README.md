@@ -82,7 +82,3 @@ Analyzed 800+ records to explore relationships between steroid compounds, report
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
-
-<hr>
-
-<h2 align="center">Check Out My Projects ⬇️</h2>
