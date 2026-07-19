@@ -65,9 +65,9 @@ Analyzed 800+ records to explore relationships between steroid compounds, report
 
 ---
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="left">Connect With Me</h2>
 
-<p align="center">
+<p align="left">
   <a target="_blank" href="https://www.linkedin.com/in/jonathanspark">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
