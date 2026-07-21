@@ -78,7 +78,7 @@ Analyzed 800+ records to explore relationships between steroid compounds, report
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a target="_blank" href="https://drive.google.com/file/d/1Srhy1LG5-QGbEGVGQiKOIHH-hXXu-wFa/view?usp=sharing">
+  <a target="_blank" href="https://drive.google.com/file/d/1HR_pbzM-6VssUDzYLUkkXgAhCkeaGR5S/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </p>
